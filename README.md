@@ -15,8 +15,8 @@ It also does **not include** any light theme version.
 
 ## Features
 
-  - [!] darkness
-  - [!] atom colors
+  - [X] darkness
+  - [X] atom colors
 
 ## Installation
 
