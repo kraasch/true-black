@@ -25,13 +25,9 @@ It also does **not include** any light theme version.
 
 ## Tasks
 
-List of things to do
-
-  - [ ] take a screenshot: `./data/shot_1920x1080px.png`
-
 List of things done
 
-  - [ ] xxx
+  - [!] take a screenshot: `./data/shot_1920x1080px.png`
 
 ## Feedback
 
