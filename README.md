@@ -10,7 +10,7 @@ It also does **not include** any light theme version.
 ## Demo
 
 <p align="center">
-  <img src="./data/shot_1920x1080px.png" width="300"/>
+  <img src="./data/shot_1920x1080px.png" width="100%"/>
 </p>
 
 ## Features
