@@ -15,8 +15,8 @@ It also does **not include** any light theme version.
 
 ## Features
 
-  - [X] darkness
-  - [X] atom colors
+  - [!] darkness
+  - [!] atom colors
 
 ## Installation
 
@@ -27,7 +27,7 @@ It also does **not include** any light theme version.
 
 List of things done
 
-  - [!] take a screenshot: `./data/shot_1920x1080px.png`
+  - [X] take a screenshot: `./data/shot_1920x1080px.png`
 
 ## Feedback
 
