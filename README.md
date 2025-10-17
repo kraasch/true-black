@@ -53,3 +53,7 @@ View the [license file](./LICENSE).
 
 For how to making your own theme see the [obsidian hub guide](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/How+to+add+your+theme+to+the+community+theme+store) on community themes.
 
+Here is the [developer policies](https://docs.obsidian.md/Developer+policies).
+
+Here is the [theme guidelines](https://docs.obsidian.md/Themes/App+themes/Theme+guidelines).
+
